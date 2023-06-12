@@ -41,3 +41,5 @@ def student_report(marks):
     print("Lowest marks obtained in a subject is",low_marks)
     
 student_report([35,50,70,80,95,86])
+
+#class practice
